@@ -72,7 +72,6 @@ Information is stored across a network of computers instead of on a single serve
 The creator can only use the money if a minimum number of contributors approve a certain request. It will make sure the money is used for Necessities rather than Luxuries.
 
 ## Future work
-- Add SSR & Pagination to request page(`pages/campaigns/[address]/requests/index.js`)
 - Improve overall UI/UX
 - Add profit distribution mechanism so that profit that is generated is automatically distributed  among the investors providing investors with additional layer of security of interests of investors.
 
