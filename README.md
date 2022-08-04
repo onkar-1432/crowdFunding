@@ -62,6 +62,7 @@ npm run dev
 ### Technology Stack
 * ReactJs
 * Solidity
+* NextJs
 * Ethereum Smart Contract
 
 ## Features
