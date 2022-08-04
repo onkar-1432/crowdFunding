@@ -23,7 +23,7 @@ The purpose of this project is to increase the credibility of crowdfunding campa
 - Wallet mnemonic with the first wallet address containing some eth required to deploy the initial contract
 - Metamask plugin should ideally be in the same network that infura url is pointing to
 - Node.js
-- Yarn (preferred) or NPM
+- Yarn or NPM
 
 ## How to run
 #### Install NodeJs and NPM
